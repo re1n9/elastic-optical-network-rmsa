@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+/results_*/
+/*_spectrum.png
+/*_spectrum_desc.png
+/experiment_results*.txt
+.DS_Store
+Thumbs.db

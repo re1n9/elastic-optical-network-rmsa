@@ -34,4 +34,3 @@ python main_with_protection.py
 ## Project note
 
 This repository is a curated version of a team course project. The implementation and analysis were completed collaboratively; the repository does not claim sole authorship.
-
